@@ -7,7 +7,8 @@
      
     // generating 
     $text = QRcode::text($codeContents); 
-    $raw = join("\n", $text); 
+    $raw = join("\n", $text)."\n"; 
+
      /*
      
      BLACK = '\033[40m  \033[0m'
