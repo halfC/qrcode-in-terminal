@@ -1,8 +1,12 @@
 #Qrcode displayed on the terminal
 
-`use: php index.php`
+# 在命令终端显示二维码 
+
+
+`use in terminal: php index.php`
 
 
 
 show:
- ![cmd-markdown-logo](show.png)
+
+ ![terminal show](show.png)
